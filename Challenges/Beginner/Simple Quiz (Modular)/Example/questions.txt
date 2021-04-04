@@ -1,0 +1,7 @@
+<question>Hello and welcome to our weekly quiz!
+I would like to point out that there are no wrong answers. If you are ready to start, respond.
+
+You can stop this at any time by typing "stop" with the quotes!</question>
+<question>Lovely! What do you do in the weekends?</question>
+<question>Nice! What do you do in your free time?</question>
+<question>And finally, what do you think about Java?</question>

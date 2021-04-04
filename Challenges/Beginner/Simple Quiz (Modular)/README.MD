@@ -18,6 +18,8 @@ The project must contain the following features:
 
 **Note:** In order to mark this challenge as completed you shouldn't use any external help sources. If you are stuck, please go to the "Tips" section below.
 
+**Note:** You may also check the example [here](Example).
+
 ## Points
 If you would like to award yourself a score, here is a table to follow:
 | **Requirement**                                                                                       | **Points** |
@@ -42,6 +44,5 @@ If you would like to award yourself a score, here is a table to follow:
 - Start the program and answer to the apples question, then check if the program asks you the "Do you like oranges?" one.
 
 ## Tips
-1. You should have a class that represents a question.
-2. You should use the Scanner class to read the data from the console.
-3. You should use a special character to divide the questions.
+1. You should use the Scanner class to read the data from the console.
+2. You should use a special character to divide the questions.
