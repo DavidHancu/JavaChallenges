@@ -7,10 +7,11 @@
   - Beginner Exercise #3
   - Beginner Exercise #4
   - Beginner Exercise #5
-- Arraylist Article
+- Arraylist Article **(Added)**
 
-## Latest Challenges
+## Latest Content
 - [First Beginner Challenge!](https://github.com/DavidHancu/JavaChallenges/tree/main/Challenges/Beginner/Simple%20Quiz%20(Modular))
+- [ArrayList Article](https://github.com/DavidHancu/JavaChallenges/wiki/ArrayList)
 
 ## Available Challenges
 | **Difficulty** | **Number of Challenges** |
