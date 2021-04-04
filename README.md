@@ -1,5 +1,5 @@
 # Java Challenges
-![April Roadmap](https://i.imgur.com/VLlzFFA.png)
+![April Roadmap](https://i.imgur.com/fS3YPzN.png)
 
 ## Latest Content
 - [First Beginner Challenge!](https://github.com/DavidHancu/JavaChallenges/tree/main/Challenges/Beginner/Simple%20Quiz%20(Modular))
