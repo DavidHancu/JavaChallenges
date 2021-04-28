@@ -26,7 +26,10 @@ All of the methods shown below returned the following output:
 ```java
 numbers = new ArrayList<>(numbers);
 ```
-This piece of code creates a copy of the readonly list. So now, when the code uses the ``numbers`` variable, it will point to the list that allows editing.
+This piece of code creates a copy of the readonly list. So now, when the code uses the ``numbers`` variable, it will point to the list that allows editing. Instead of that, you can use:
+```java
+numbers = Arrays.asList(107, 90, 403, 25);
+```
 
 # Something else to point out
 The ``Comparator`` class has a pretty neat method called ``reversed()``. You can also get a Comparator for descending order by using:
