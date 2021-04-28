@@ -22,11 +22,11 @@ All of the methods shown below returned the following output:
 ```
 
 # Note
-**BE AWARE:** Trying to sort readonly lists will throw an UnsupportedOperationException. However, there are ways to bypass it. One of them is creating a new collection like this:
+**BE AWARE:** Trying to sort readonly lists will throw an ``UnsupportedOperationException``. However, there are ways to bypass it. One of them is creating a new collection like this:
 ```java
 numbers = new ArrayList<>(numbers);
 ```
-This piece of code creates a copy of the readonly list. SO now, when the code uses the ``numbers`` variable, it will point to the list that allows editing.
+This piece of code creates a copy of the readonly list. So now, when the code uses the ``numbers`` variable, it will point to the list that allows editing.
 
 # Something else to point out
 The ``Comparator`` class has a pretty neat method called ``reversed()``. You can also get a Comparator for descending order by using:
