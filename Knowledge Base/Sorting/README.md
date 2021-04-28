@@ -33,7 +33,7 @@ This method will **not** return a value; it will instead mutate (modify) the ``L
 Collections.sort(numbers, Collections.reverseOrder());
 ```
 
-### Method 1 (Uses the ``List`` class)
+### Method 2 (Uses the ``List`` class)
 ##### Ascending Order
 This method will **not** return a value; it will instead mutate (modify) the ``List``.
 ```java
