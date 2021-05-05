@@ -1,6 +1,6 @@
 # Java Challenges
 
-## Starring today
+## Starring Today
 - [Insider: Let's Explore! Series (Concurrency Episode #1)](https://github.com/DavidHancu/JavaChallenges/tree/main/Insider/Concurrency/Episode%20%231)
 
 ## Latest Content
