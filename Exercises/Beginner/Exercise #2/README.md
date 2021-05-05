@@ -38,20 +38,4 @@ The program should allow you to input a string in the console. After you hit ent
 1. You should use the Scanner class to read the data from the console.
 
 ## Working code samples
-<details>
-  <summary>Solution #1</summary>
-  
-  ```java
-        Scanner scanner = new Scanner(System.in);
-
-        System.out.print("Main String: ");
-        String mainString = scanner.nextLine();
-
-        System.out.print("Search String: ");
-        String searchString = scanner.nextLine();
-
-        int count = mainString.split(searchString, -1).length - 1;
-        System.out.println("The occurrence count is " + count + " time" + (count == 1 ? "" : "s") + ".");
-  ```
-  
-</details>
+[Solution #1](https://github.com/DavidHancu/JavaChallenges/blob/main/Exercises/Beginner/Exercise%20%232/SOLUTION.MD)
