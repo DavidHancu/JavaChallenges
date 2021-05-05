@@ -19,7 +19,9 @@ The program should allow you to input a string in the console. After you hit ent
 ## Example
 
 ``Main String:`` I like Java very very much.
+
 ``Search String:`` very
+
 ``Response:`` The occurrence count is 2 times.
 
 ## Testing
