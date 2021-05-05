@@ -5,4 +5,4 @@ This section is for everyone who likes adventure and wants to explore some conce
 
 ## Schedule
 ### May 5, 2021
-**Concurrency Series:** [Episode 1 - "Introduction"](https://github.com/DavidHancu/JavaChallenges/tree/main/Insider/Concurrency)
+**Concurrency Series:** [Episode 1 - "Introduction"](https://github.com/DavidHancu/JavaChallenges/tree/main/Insider/Concurrency/Episode%20%231)
